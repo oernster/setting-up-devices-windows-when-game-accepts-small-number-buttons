@@ -5,10 +5,7 @@ A description of how to configure software on Windows such that multiple hardwar
   https://sourceforge.net/projects/vjoystick/
 
 # Install Joystick Gremlin
-  https://github.com/WhiteMagic/JoystickGremlin
-
-  To use this, you'll need to install git and clone the repo.
-  Use the command 'git clone <insert repo name here for JG> on the Windows command line.
+  https://whitemagic.github.io/JoystickGremlin/download/
   
 # Install HidHide
   https://github.com/ViGEm/HidHide/releases

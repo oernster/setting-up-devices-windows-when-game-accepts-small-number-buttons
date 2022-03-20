@@ -44,6 +44,6 @@ A description of how to configure software on Windows such that multiple hardwar
 # Example JG profile
   FYI my JG setup uses my VPC LEDs plugin, also available on my github account.
   You can download all the files in the directory 'joystick gremlin' in this repository to try it out.  This does not require Elite.
-  However, my setup assumes a CM3 throttle from Virpil linked to a CPv2 via Aux.  It's harmless if you don't have the CPv2 too, though I suspect it would also work fine with a CPv1 also attached.  My SharKa panel is attached via a separate USB cable.  If you follow the setup instructions above you can do your own thing but perhaps this might help.
+  However, my setup assumes a CM3 throttle from Virpil linked to a CPv2 via Aux.  It's harmless if you don't have the CPv2 too, though I suspect it would also work fine with a CPv1 also attached.  I also have a WarBRD base with a Constellation Alpha grip and MFG crosswinds v2 pedals.  My SharKa panel is attached via a separate USB cable.  If you follow the setup instructions above you can do your own thing but perhaps this might help.
   
   

@@ -1,0 +1,21 @@
+{
+    "activate_on_launch": true,
+    "autoload_profiles": true,
+    "calibration": {},
+    "close_to_tray": true,
+    "last_mode": {
+        "C:/Users/Oliver/joystick gremlin/AllSettings.xml": "Default"
+    },
+    "last_profile": "C:/Users/Oliver/joystick gremlin/AllSettings.xml",
+    "profiles": {
+        "C:/Program Files (x86)/Frontier/EDLaunch/EDLaunch.exe": ""
+    },
+    "recent_profiles": [
+        "C:/Users/Oliver/joystick gremlin/AllSettings.xml"
+    ],
+    "start_minimized": false,
+    "window_location": [
+        1182,
+        398
+    ]
+}

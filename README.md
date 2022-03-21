@@ -25,7 +25,7 @@ A description of how to configure software on Windows such that multiple hardwar
   Reboot your PC.
   
   3) Launch joystick gremlin.  For each hardware device (not the vjoy ones), remap all axis and all buttons to identical values but a particular vjoy device.  NOTE: you must NOT use more than 32 buttons for Elite Dangerous; your game may have a different limitation.  So, to avoid issues, when remapping, only remap 32 buttons per vjoy device starting at button 1 and then finishing at a max of button 32.  If a hardware device has 100 buttons, then you need to use multiple vjoy devices and only use 32 buttons per vjoy device.  You'll need to map the axes too.
-  This is a very tiresome job and involves lots of clicking around in the Joystick Gremlin interface.  Sorry, but there's no simple way to avoid this work unless WhiteMagic, the author of the JG tool, simplifies things in the GUI using some kind of automation.  Once youv'e done it once you'll be sorted.
+  This is a very tiresome job and involves lots of clicking around in the Joystick Gremlin interface.  Sorry, but there's no simple way to avoid this work unless WhiteMagic, the author of the JG tool, simplifies things in the GUI using some kind of automation.  Once you've done it once you'll be sorted.
   Make sure that you map all of your hardware devices this way and do not accidentally duplicate vjoy devices for different pieces of hardware.
   During this process you may find you run out of vjoy devices.  If you do, then you'll need to close JG and install one or more new vjoy devices, then restart JG.
   
